@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\stddef_stdint_kütüphaneleri\stddef_stdint_kütüphaneleri\Source.c(27,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char **'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\stddef_stdint_kütüphaneleri\stddef_stdint_kütüphaneleri\Source.c(10,9): warning C4101: 'x': unreferenced local variable
+  stddef_stdint_kütüphaneleri.vcxproj -> C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\stddef_stdint_kütüphaneleri\Debug\stddef_stdint_kütüphaneleri.exe

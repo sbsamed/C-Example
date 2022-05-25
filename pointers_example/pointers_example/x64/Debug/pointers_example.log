@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointers_example\pointers_example\Source.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointers_example\pointers_example\Source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointers_example\pointers_example\Source.c(10,16): error C2057: expected constant expression
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointers_example\pointers_example\Source.c(10,16): error C2466: cannot allocate an array of constant size 0
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointers_example\pointers_example\Source.c(10,17): error C2133: 'dizi': unknown size

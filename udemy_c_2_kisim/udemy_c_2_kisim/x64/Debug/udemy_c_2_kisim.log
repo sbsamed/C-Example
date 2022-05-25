@@ -1,0 +1,5 @@
+﻿  conditional_compiling.c
+C:\Users\SAMED\Desktop\EĞİTİM\CART CURT\Udemy C\udemy_c_2_kisim\udemy_c_2_kisim\conditional_compiling.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\SAMED\Desktop\EĞİTİM\CART CURT\Udemy C\udemy_c_2_kisim\udemy_c_2_kisim\conditional_compiling.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+prproprecoser.obj : error LNK2005: main already defined in conditional_compiling.obj
+C:\Users\SAMED\Desktop\EĞİTİM\CART CURT\Udemy C\udemy_c_2_kisim\x64\Debug\udemy_c_2_kisim.exe : fatal error LNK1169: one or more multiply defined symbols found

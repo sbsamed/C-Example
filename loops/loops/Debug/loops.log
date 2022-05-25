@@ -1,0 +1,3 @@
+﻿  loops.c
+C:\Users\SAMED\Desktop\EĞİTİM\CART CURT\Udemy C\loops\loops\loops.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  loops.vcxproj -> C:\Users\SAMED\Desktop\EĞİTİM\CART CURT\Udemy C\loops\Debug\loops.exe

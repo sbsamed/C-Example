@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\DinamikBellekYönetimi\DinamikBellekYönetimi\Source.c(42,10): warning C4047: 'function': 'const int *const ' differs in levels of indirection from 'size_t'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\DinamikBellekYönetimi\DinamikBellekYönetimi\Source.c(42,7): warning C4024: 'fonk': different types for formal and actual parameter 1
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\DinamikBellekYönetimi\DinamikBellekYönetimi\Source.c(42,18): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\DinamikBellekYönetimi\DinamikBellekYönetimi\Source.c(42,12): warning C4024: 'fonk': different types for formal and actual parameter 2
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\DinamikBellekYönetimi\DinamikBellekYönetimi\Source.c(47,18): warning C4028: formal parameter 1 different from declaration
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\DinamikBellekYönetimi\DinamikBellekYönetimi\Source.c(48,20): warning C4018: '<': signed/unsigned mismatch
+  DinamikBellekYönetimi.vcxproj -> C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\DinamikBellekYönetimi\Debug\DinamikBellekYönetimi.exe

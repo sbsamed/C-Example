@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointer_example_1\pointer_example_1\Source.c(8,18): error C2296: '&': illegal, left operand has type 'char [3]'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointer_example_1\pointer_example_1\Source.c(8,7): error C2198: 'scanf': too few arguments for call
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\pointer_example_1\pointer_example_1\Source.c(8,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

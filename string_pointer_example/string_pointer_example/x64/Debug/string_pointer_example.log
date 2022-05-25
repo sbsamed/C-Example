@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SAMED\source\repos\string_pointer_example\string_pointer_example\Source.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\SAMED\source\repos\string_pointer_example\string_pointer_example\Source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  string_pointer_example.vcxproj -> C:\Users\SAMED\source\repos\string_pointer_example\x64\Debug\string_pointer_example.exe

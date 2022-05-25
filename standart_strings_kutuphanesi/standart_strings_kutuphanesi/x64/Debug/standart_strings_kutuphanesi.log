@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(54,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(54,9): message : consider using '%lld' in the format string
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(54,9): message : consider using '%Id' in the format string
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(54,9): message : consider using '%I64d' in the format string
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(72,9): warning C4129: 'c': unrecognized character escape sequence
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(72,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(72,9): message : consider using '%lld' in the format string
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(72,9): message : consider using '%Id' in the format string
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(72,9): message : consider using '%I64d' in the format string
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\standart_strings_kutuphanesi\Source.c(15,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  standart_strings_kutuphanesi.vcxproj -> C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\standart_strings_kutuphanesi\x64\Debug\standart_strings_kutuphanesi.exe

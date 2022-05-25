@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\voidPointers\voidPointers\Source.c(23,44): warning C4028: formal parameter 2 different from declaration
+C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\voidPointers\voidPointers\Source.c(23,57): warning C4028: formal parameter 3 different from declaration
+  voidPointers.vcxproj -> C:\Users\SAMED\Desktop\EĞİTİM\kişisel gelişim\Udemy C\voidPointers\Debug\voidPointers.exe
